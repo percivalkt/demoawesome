@@ -1,0 +1,23 @@
+body {
+    background-color: palegoldenrod;
+  }
+  h1 {
+    color: rgb(0, 0, 0);
+    font-family: Georgia, serif;
+    font-size: 200%;
+    padding: 10px;
+  }
+  h2 {
+    color: rgb(0, 0, 0);
+    font-family: verdana;
+    font-size: 150%;
+    padding: 10px;
+  }
+  p {
+    color: rgb(5, 46, 14);
+    font-family: courier;
+    font-size: 125%;
+    border: 2px  palegoldenrod;
+    padding: 10px;
+    margin: 50px;
+  }
